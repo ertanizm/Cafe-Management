@@ -1,4 +1,4 @@
-# auth-project
+# cafe-project
 
 ## Project setup
 ```
